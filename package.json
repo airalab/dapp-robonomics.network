@@ -36,7 +36,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
     "multihashing-async": "^2.1.2",
-    "prismjs": "^1.22.0",
+    "prismjs": "^1.24.0",
     "robonomics-js": "^0.6.2",
     "robonomics-vc": "^0.1.1",
     "rosbag": "^2.6.3",
