@@ -15,7 +15,7 @@
     "@polkadot/extension-dapp": "^0.37.2",
     "@polkadot/ui-keyring": "^0.70.1",
     "@uniswap/sdk": "^2.0.5",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "base-x": "^3.0.8",
     "bluebird": "^3.7.2",
     "chroma-js": "^2.1.0",
